@@ -95,6 +95,20 @@ A continuación se muestran las principales vistas del cuadro de mando interacti
 
 ---
 
+🎯 5 Recomendaciones Estratégicas para la Toma de Decisiones:
+
+1. Potenciar la Fidelización Directa: Aprovechar el tirón de la venta directa (+4.7k noches) creando programas de loyalty exclusivos que mejoren el Lifetime Value del cliente.
+
+2. Empaquetamiento Dinámico en F&B: Compensar la bajada en Media Pensión ofertando experiencias gastronómicas a la carta o paquetes flexibles de consumo dentro del hotel.
+
+3. Campañas Tácticas para el Segmento Joven (18-35): Ajustar la estrategia de marketing digital y pricing dinámico para recuperar el volumen perdido en estas franjas de edad.
+
+4. Estrategia de Up-selling en Habitación Standard: Dado que la habitación Standard es la única que crece en volumen (+1.7k noches), implementar acciones de up-selling en recepción para derivar demanda a categorías Superiores/Suites.
+
+5. Diversificación en Mercados Flotantes: Lanzar acciones comerciales específicas en el mercado británico para frenar la desaceleración observada (-3.2k noches) mediante acuerdos con OTAs clave como Booking.com.
+
+---
+
 ## 📈 Rendimiento YTD por Canales y Cuentas Clave
 
 ### Top Canales por Revenue (2026)
