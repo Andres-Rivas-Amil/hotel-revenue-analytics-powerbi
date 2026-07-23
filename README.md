@@ -69,43 +69,43 @@ Pipeline completo y cuadro de mando ejecutivo en Power BI para el análisis de R
 A continuación se muestran las principales vistas del cuadro de mando interactivo:
 
 ### 1. Dashboard Revenue General
-![Dashboard Revenue](./graficos/image_215f86.png)
+![Dashboard Revenue](.graficos/Dashboard Revenue.png)
 
 ### 2. Revenue Analytics & Evolución
-![Revenue Analytics](./graficos/image_215fc1.png)
+![Revenue Analytics](.graficos/Revenue Analytics.png)
 
 ### 3. Customer Analytics
-![Customer Analytics](./graficos/image_215fe3.png)
+![Customer Analytics](.graficos/Customer Analytics.png)
 
 ### 4. Rendimiento por Hotel (YTD & # Dif 26 vs 25)
-![Revenue by Hotel](./graficos/image_21b17a.png)
+![Revenue by Hotel](.graficos/Hotel.png)
 
 ### 5. Análisis por Canal de Reserva (Booking Source)
-![Revenue by Booking Source](./graficos/image_21b19e.png)
+![Revenue by Booking Source](.graficos/Booking Source.png)
 
 ### 6. Análisis por Cuentas Clave (Key Accounts)
-![Revenue by Key Accounts](./graficos/image_21b251.png)
+![Revenue by Key Accounts](.graficos/Key Accounts.png)
 
 ### 7. Análisis por Régimen (Package)
-![Revenue by Package](./graficos/image_21b274.png)
+![Revenue by Package](.graficos/Package.png)
 
 ### 8. Análisis FIT vs Group
-![Fit vs Group](./graficos/image_21b522.png)
+![Fit vs Group](.graficos/FIT vs Group.png)
 
 ### 9. Desglose de Tipos de Grupo
-![Group Type](./graficos/image_21b55a.png)
+![Group Type](.graficos/Group Type.png)
 
 ### 10. Categorías de Habitación (Room Category)
-![Room Category](./graficos/image_21b579.png)
+![Room Category](.graficos/Room Type.png)
 
 ### 11. País de Origen del Huésped (Guest Country)
-![Guest Country](./graficos/image_21b59f.png)
+![Guest Country](.graficos/Guest Country.png)
 
 ### 12. Tipo de Huésped (Nuevo vs Repetidor)
-![Guest Type](./graficos/image_21b632.png)
+![Guest Type](.graficos/Guest Type.png)
 
 ### 13. Franjas de Edad (Age Groups)
-![Age Groups](./graficos/image_21b8df.png)
+![Age Groups](.graficos/Age Groups.png)
 
 ---
 
